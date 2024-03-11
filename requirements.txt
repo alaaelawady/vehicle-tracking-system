@@ -1,0 +1,17 @@
+torchvision==0.15.2
+ultralytics
+
+supervision==0.1.0
+
+Pip install yolox
+
+pip install -q -r requirements.txt
+
+pip install -q cython_bbox
+
+pip install -q onemetric
+pip install -q loguru lap
+
+pip install numpy==1.22.4
+
+pip install supervision==0.1.0
