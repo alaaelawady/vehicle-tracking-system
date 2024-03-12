@@ -18,7 +18,9 @@ development of an advanced vehicle tracking system that efficiently tracks, coun
 
 ### Inference on video
 
+The video source utilized to test the tracking system was a video feed from Tahrir Street in Cairo, Egypt.
 ![](output/out.gif)
+
 
 ## Instructions on How to Run the System:
 	
