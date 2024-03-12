@@ -15,6 +15,11 @@ development of an advanced vehicle tracking system that efficiently tracks, coun
 
 
 
+
+### Inference on video
+
+![](output/out.gif)
+
 ## Instructions on How to Run the System:
 	
 
